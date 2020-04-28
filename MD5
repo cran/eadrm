@@ -1,0 +1,13 @@
+389709a222f0fbaac596bccfaa374245 *DESCRIPTION
+d9c7b10d722573082bf62b4ee044e447 *NAMESPACE
+970902cf3aa0b912ac20745313824c36 *R/data.R
+3e64c9ac6487d6f07b193ae16ffdf691 *R/ea_curve_fitting4.R
+8c4cd16a13d4be6ead221687b016622e *R/ea_funcs.R
+b19a7a9c4b57618ff637c15822504659 *data/CarboA.rda
+840f62b2de5ce0eeca300f5db1044afe *man/CarboA.Rd
+1f17a6ff9cc04002976abc06a5301937 *man/calc.ec.Rd
+00cd9be03aa86fe69f488a74fd67b9e5 *man/calc.ed.Rd
+184f1341d10bea59a29fa673cf199a32 *man/eadrm.Rd
+e1a33a52b2b93660fd0fbe16c3dc4071 *man/eadrm.ci.Rd
+1af0419f1390ae481685e8481bec140b *man/plot.eadrm.Rd
+c86450f69e58c399fe9527359c6d180b *man/predict.eadrm.Rd
