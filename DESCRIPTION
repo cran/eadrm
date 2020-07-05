@@ -1,11 +1,14 @@
 Package: eadrm
 Title: Fitting Dose-Response Models Using an Evolutionary Algorithm
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: 
-    person(given = "Eric",
+    c(person(given = "Eric",
            family = "Bair",
            role = c("aut", "cre"),
-           email = "eric.bair@sciome.com")
+           email = "eric.bair@sciome.com"),
+      person(given = "Jun",
+           family = "Ma",
+	   role = "aut"))
 Description: Fits dose-response models using an evolutionary
     algorithm to estimate the model parameters. The procedure currently
     can fit 3-parameter, 4-parameter, and 5-parameter log-logistic models
@@ -20,8 +23,9 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-04-23 15:39:15 UTC; ebair
-Author: Eric Bair [aut, cre]
+Packaged: 2020-07-05 16:53:54 UTC; ebair
+Author: Eric Bair [aut, cre],
+  Jun Ma [aut]
 Maintainer: Eric Bair <eric.bair@sciome.com>
 Repository: CRAN
-Date/Publication: 2020-04-28 11:20:05 UTC
+Date/Publication: 2020-07-05 17:20:03 UTC
