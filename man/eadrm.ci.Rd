@@ -12,8 +12,8 @@ eadrm.ci(obs, xvals, model = "h4", ..., B = 1000)
 \item{xvals}{A vector of doses (x-values).}
 
 \item{model}{Type of dose-response model to fit. Possible values
-include "h3", "h4", and "h5" (correspoding to 3-paramater,
-4-parameter, and 5-paramter log-logistic models, respectively) and
+include "h3", "h4", and "h5" (corresponding to 3-parameter,
+4-parameter, and 5-parameter log-logistic models, respectively) and
 "e" (corresponding to an exponential model). Defaults to "h4".}
 
 \item{...}{Additional parameters for the eadrm function.}

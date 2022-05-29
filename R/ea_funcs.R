@@ -198,8 +198,8 @@ plot.eadrm <- function(x, ...) {
 #' @param obs A vector of response values (y-values).
 #' @param xvals A vector of doses (x-values).
 #' @param model Type of dose-response model to fit. Possible values
-#' include "h3", "h4", and "h5" (correspoding to 3-paramater,
-#' 4-parameter, and 5-paramter log-logistic models, respectively) and
+#' include "h3", "h4", and "h5" (corresponding to 3-parameter,
+#' 4-parameter, and 5-parameter log-logistic models, respectively) and
 #' "e" (corresponding to an exponential model). Defaults to "h4".
 #' @param B Number of replicate models to fit. Defaults to 1000.
 #' @param ... Additional parameters for the eadrm function.

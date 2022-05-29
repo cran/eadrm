@@ -23,8 +23,8 @@ eadrm(
 \item{xvals}{A vector of doses (x-values).}
 
 \item{model}{Type of dose-response model to fit. Possible values
-include "h3", "h4", and "h5" (correspoding to 3-paramater,
-4-parameter, and 5-paramter log-logistic models, respectively),
+include "h3", "h4", and "h5" (corresponding to 3-parameter,
+4-parameter, and 5-parameter log-logistic models, respectively),
 "e" (corresponding to an exponential model) and "all" (which allows
 the procedure to evaluate all four types of models). Defaults to "h4".}
 
@@ -88,5 +88,5 @@ ea.fit <- eadrm(CarboA$y, CarboA$x)
 \references{
 Ma, J., Bair, E., Motsinger-Reif, A. "Nonlinear Dose-response Modeling
 of High-Throughput Screening Data Using an Evolutionary Algorithm",
-Dose Response (In press).
+Dose Response 18(2):1559325820926734 (2020).
 }
